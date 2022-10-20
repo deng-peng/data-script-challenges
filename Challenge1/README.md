@@ -1,15 +1,4 @@
-# Coding Challenge
-
-The main goal of this challenge is to get a sense of your coding style and choices.
-
-The code challenge does not involve any exotic or bleeding-edge technologies, tools, etc. and that’s the point: We’d like to focus on your code style and not get distracted.
-
-On that note, we’re also not looking for "rights and wrongs", and there are no "trick parts" in this challenge. We would merely like to get a more profound impression of how you write code.
-
-That also allows us to have a more fruitful and constructive discussion at the technical interview. We’re not fans of white-boarding at interviews, so we’d much rather have some concrete code to talk about. We think that makes the interview much more enjoyable and productive.
-
-
-# Your challenge/task
+## Your challenge/task
 
 Import the data set and associate as much data as possible
 
